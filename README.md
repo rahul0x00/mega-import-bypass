@@ -1,5 +1,6 @@
 # Mega Import Bypass
 
+
 Import mega files above the 50gbs limit using only a userscript.
  
 There's only 1 condition,As long as `there's even 1 mb of storage is left you can import any link bypassing the storage quota you have.
